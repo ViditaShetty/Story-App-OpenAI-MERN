@@ -5,6 +5,7 @@ This is a AI Generated Story App where the OpenAI generates a story based on use
 https://github.com/ViditaShetty/Story-App-OpenAI-MERN/assets/96463276/8bf1fbcf-6852-467f-be92-816e0ab0bf8b
 
 # Home page
+![1000015132](https://github.com/ViditaShetty/Story-App-OpenAI-MERN/assets/96463276/01fc8f7f-9b71-4c8f-97c4-fab0633fdebe)
 
 
 # Explore Page with filters
